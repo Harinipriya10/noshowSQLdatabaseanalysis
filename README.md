@@ -1,4 +1,7 @@
 ************************************************************BRAZILIAN NMEDICAL NO-SHOW DATA ANALYSIS******************************************************
+
+
+
 Project is about using SQL queries to extract, analyze, and interpret insights from a structured healthcare dataset (Medical Appointment No Shows).
 Dataset Used:
 Medical Appointment No Shows dataset from Kaggle (Uploaded as appointments table in MySQL)
